@@ -1,0 +1,47 @@
+.select2-container .select2-selection--single {
+    height: 38px;
+}
+.table-options{
+    width: 150px;
+}
+.table-options a i {
+    padding-right: 15px;
+    color:#4f5962;
+}
+.desc-produto{
+    height: 125px !important;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.btn-gray{
+    color: white;
+    background-color: #4c4c4c;
+}
+
+.btn-medium-gray{
+    color: white;
+    background-color: #9b9b9b;
+}
+.filters{
+    background-color: white;
+    border-radius: 5px;
+}
+
+.admin{
+    float: left;
+    /* line-height: .8; */
+    margin-left: .8rem;
+    margin-right: .5rem;
+    /* margin-top: -3px; */
+    max-height: 33px;
+    width: auto;
+}
+.itens-pointer{
+    cursor: pointer;
+}
+.status-align{
+    text-align-last: center;
+}
+.hide-element{
+    display:none;
+}
